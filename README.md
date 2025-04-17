@@ -56,14 +56,7 @@ For any enquiries or support, please contact:
 - Email: [SemGuide@gmail.com](mailto:k7aditya@gmail.com)
 
 ## Contributors
-- Aditya Khairnar
-- Siddhenthi Uday Kumar
-- Kushal Bansal
-- Jatavath Siddhartha Nayak
-- Nomula Suveeksha Reddy
-- Gajulapalli Sai Varshitha
-- Tammina Moulya
-
+- Penabadi Chakradhar
 
 
 
